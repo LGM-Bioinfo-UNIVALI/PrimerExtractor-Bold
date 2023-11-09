@@ -1,0 +1,8 @@
+SCRAPING:
+  PAGES: 6  # Number of pages
+  PAGE_ITEMS: 500  # Number of items per page
+
+OUTPUT:
+  EXCEL_FILE_NAME: primers_list.xlsx
+  SHEET_NAME: Primers
+  FLAT_FILE_NAME: primers_list.tsv
