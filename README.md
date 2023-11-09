@@ -1,2 +1,2 @@
 # PrimerExtractor-Bold
- Extract primers from Bold
+ Extract primers from Bold Systems
